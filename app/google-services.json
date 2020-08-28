@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249716654449",
+    "firebase_url": "https://sezzle-calculator-f5b88.firebaseio.com",
+    "project_id": "sezzle-calculator-f5b88",
+    "storage_bucket": "sezzle-calculator-f5b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249716654449:android:a78dd6eecd20ca13cb76d0",
+        "android_client_info": {
+          "package_name": "com.example.sezzlecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249716654449-c9fnld4d81cd0dv8l65t0asffi7e46qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVKVJ1MXTmc7NivKxcE6i7PNntKuPLcuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249716654449-c9fnld4d81cd0dv8l65t0asffi7e46qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
